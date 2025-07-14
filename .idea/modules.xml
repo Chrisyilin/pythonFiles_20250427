@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PredictWeather/.idea/PredictWeather.iml" filepath="$PROJECT_DIR$/../PredictWeather/.idea/PredictWeather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonFiles_20250427.iml" filepath="$PROJECT_DIR$/.idea/pythonFiles_20250427.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonFiles_20250513/.idea/pythonFiles_20250513.iml" filepath="$PROJECT_DIR$/../pythonFiles_20250513/.idea/pythonFiles_20250513.iml" />
+    </modules>
+  </component>
+</project>

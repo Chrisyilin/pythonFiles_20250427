@@ -1,7 +1,7 @@
 
 
 
-
+print('上传代码到github - 20250714')
 
 num = {x: x ** 2 for x in range(10)}
 print(num)
